@@ -39,4 +39,5 @@
   <suppress checks="EmptyBlockCheck" files="TBoundedThreadPoolServer.java"/>
   <suppress checks="EqualsHashCode" files="StartcodeAgnosticServerName.java"/>
   <suppress checks="MethodLength" files="Branch1CoprocessorMethods.java"/>
+  <suppress checks="IllegalImport" message="org\.apache\.htrace\.core"/>
 </suppressions>
